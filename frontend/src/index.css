@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Lato', sans-serif;
+  background-image: url('https://previews.123rf.com/images/korolyok/korolyok1803/korolyok180300133/98408508-old-grunge-newspaper-paper-texture-background-blurred-vintage-newspaper-background-aged-blur-paper.jpg');
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+.paragraph {
+  text-indent: 1.5em;
+}
+.friend-newsletter {
+  font-family: Protest Riot;
+  font-size:2em;
+}
+
